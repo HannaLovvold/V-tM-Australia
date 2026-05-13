@@ -1,0 +1,181 @@
+=== COTERIE NAME ===
+
+[ name(*formal name OR nickname OR descriptor — "The Astor Street Five," 
+  "the Bridgeport Coterie," "the people Cordelia counts on" — coteries 
+  often go unnamed; specify whether the name is self-chosen or imposed*); ]
+
+[ formation_year(*when the coterie became a coterie — usually a specific 
+  inciting event*); 
+  formation_circumstance(*one paragraph — what brought these specific 
+  Kindred together; the inciting event matters more than the personalities*); ]
+
+[ size(*3-6 members — anything larger is a faction or crew, not a coterie*); 
+  composition(*what the coterie looks like demographically — clan distribution, 
+  sect distribution, generation range, gender mix, any unusual configurations*); ]
+
+=== COTERIE BINDING ===
+
+The single most important question: what binds them? Coteries break apart 
+without binding. Pick one primary binding from below; secondary bindings 
+add texture but don't substitute.
+
+[ primary_binding(*pick ONE*):
+  □ SHARED CAUSE — political, ideological, or moral commitment all members share
+  □ MUTUAL PROTECTION — practical alliance against shared threats
+  □ TERRITORIAL — they share haven space or feeding territory
+  □ KINSHIP — sired by the same Kindred OR family-of-choice formation
+  □ ROMANTIC NETWORK — interlocking romantic/sexual bonds
+  □ TRAUMATIC FOUNDATION — survived something together that bonded them
+  □ COMMERCIAL — joint operation that requires their specific skills
+  □ TRADITIONAL — inherited or formal coterie position
+  □ DEBT — mutual obligation that can't be discharged individually
+]
+
+[ secondary_bindings(*list any additional*):
+  ____________________
+  ____________________
+]
+
+[ binding_strength(*pick one*):
+  □ Iron — the binding is sacred to all members; betrayal is unthinkable
+  □ Strong — the binding holds under pressure but has been tested
+  □ Functional — the binding works most of the time; some members waver
+  □ Fragile — the binding is failing and members know it
+  □ Performance — the binding is publicly maintained but privately empty
+]
+
+=== COTERIE PURPOSE ===
+
+[ what_they_do(*specifically — coteries should have at least one ongoing 
+  activity that requires the group rather than the individuals; 
+  "they investigate Tremere blood-sorcery anomalies for Cordelia," 
+  "they run the Pilsen Anarchs' contingency-card network," 
+  "they conduct unsanctioned diableries every 18-24 months"*); ]
+
+[ active_operations(*what they're working on right now in chronicle time — 
+  three-bullet list*):
+  - ____________________
+  - ____________________
+  - ____________________
+]
+
+[ public_face(*how they present in Camarilla / Anarch / Hecata public — 
+  what other Kindred think they are*); 
+  hidden_truth(*what they actually are — coteries usually have at least 
+  one register of meaning that is not shared with outsiders*); ]
+
+=== MEMBER ROSTER ===
+
+For each member, full Tier 2 NPC builder (from `/templates/npc_builder/`) 
+PLUS the following coterie-specific fields:
+
+[ member_role(*specifically the role they play IN the coterie — 
+  "the planner," "the muscle," "the social face," "the institutional 
+  cover," "the moral compass," "the wildcard"*); ]
+
+[ binding_relationship(*what specifically binds THIS member to the 
+  coterie — the binding may be different per member; one member might be 
+  bound by debt while another is bound by cause*); ]
+
+[ position_in_internal_tensions(*how this member fits into the coterie's 
+  internal disagreements — coteries with no internal tension are dead 
+  on arrival; specify*); ]
+
+[ what_they_could_become(*coterie members should have arcs — what is this 
+  Kindred trending toward over the chronicle; "increasingly questioning 
+  the coterie's mission," "deepening loyalty to the coterie's planner," 
+  "approaching the moral threshold where they might leave"*); ]
+
+=== COTERIE INTERNAL DYNAMICS ===
+
+[ central_tension(*the one core internal disagreement that animates the 
+  coterie's politics — coteries without this are inert; pick something 
+  specific*); ]
+
+[ informal_hierarchy(*who leads in practice; who is second; who has 
+  veto-via-quitting; who is the conscience; who is the muscle*); ]
+
+[ recurring_disputes(*topics the coterie argues about regularly without 
+  resolving — these become chronicle texture*):
+  - ____________________
+  - ____________________
+  - ____________________
+]
+
+[ unspoken_rules(*things every member knows not to do or say in coterie 
+  contexts; sometimes these are about the binding itself*):
+  - ____________________
+  - ____________________
+]
+
+[ recent_events(*last 6-12 months in coterie history — the chronicle 
+  inherits from this; specify three things*):
+  - ____________________
+  - ____________________
+  - ____________________
+]
+
+=== COTERIE EXTERNAL POSITION ===
+
+[ allies(*Kindred or organizations the coterie can call on — be specific; 
+  "Cordelia Whitmore-Ash personally," "the Banu Haqim Sheriff via 
+  back-channel," "Sol Vega-Chen for Pilsen-located operations"*); ]
+
+[ rivals(*Kindred who actively oppose the coterie — be specific*); ]
+
+[ enemies(*Kindred or organizations who would destroy the coterie if able*); ]
+
+[ standing_in_domain(*what is the coterie's reputation in Camarilla / 
+  Anarch / Hecata Chicago; how is it earned*); ]
+
+[ enemy_intelligence(*what do the coterie's enemies know about them, vs. 
+  what they suspect, vs. what remains hidden — important for plot pacing*); ]
+
+=== COTERIE RESOURCES ===
+
+[ shared_haven(*if any — coteries with shared havens have different 
+  rhythms than those without*); ]
+
+[ shared_assets(*money, vehicles, ghouls, mortal contacts, equipment, 
+  ritual focuses — what does the coterie OWN together*); ]
+
+[ skills_inventory(*what does the coterie have access to that single 
+  Kindred would not — combat, social, magical, investigative, 
+  technological, etc.*); ]
+
+[ resource_gaps(*what does the coterie LACK that other coteries might 
+  have — this is plot fuel; specify*); ]
+
+=== COTERIE PRESSURE PATTERN ===
+
+[ current_pressure_level(*how stressed is the coterie right now*):
+  □ Stable — ongoing operations, no active crisis
+  □ Strained — recent setback or pressure, recovering
+  □ In crisis — active emergency, cohesion at risk
+  □ Pre-fracture — internal tensions reaching breaking point
+  □ Post-victory — recently succeeded at something, currently celebrating
+]
+
+[ trajectory(*where is this coterie going in the next 6 months of 
+  chronicle time, absent player intervention*):
+  □ Toward greater cohesion and capability
+  □ Toward fracture
+  □ Toward catastrophic exposure or destruction
+  □ Toward transformation into a different formation
+  □ Stable on its current trajectory
+]
+
+[ chronicle_function(*what role does this coterie play in chronicle:
+  - If player-led: this is {{user}}'s coterie; arc is {{user}}'s arc
+  - If allied: source of resources, plots, and complications
+  - If rival: scene-level pressure, tactical opposition
+  - If hidden antagonist: long-arc plot engine, eventual reveal
+  - If background faction: world-texture, occasional appearance
+*); ]
+
+=== HARD GUIDELINES (for AI deployment) ===
+
+[ how_AI_should_play_the_coterie(*specific instructions about how the 
+  coterie should appear in scenes — voice, register, internal 
+  consistency, what makes them recognizable as THIS coterie rather 
+  than any coterie*); ]

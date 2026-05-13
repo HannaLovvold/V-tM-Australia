@@ -1,0 +1,111 @@
+=== {{USER}} V:tM MASTER PERSONA ===
+
+[ name(*YOUR NAME — both mortal name and any "street" name used in the modern night*); pronouns(*she/her, she/they, etc.*); apparent_age(*age at Embrace*); actual_age(*time since Embrace*); embrace_year(*1814, 1923, 1998, 2019 — be specific, century matters*); ]
+
+[ CLAN SLOT — SWITCH PER SESSION:
+  □ Brujah    □ Gangrel   □ Malkavian  □ Nosferatu  □ Toreador
+  □ Tremere   □ Ventrue   □ Banu Haqim □ Lasombra   □ Hecata
+  □ Ministry  □ Tzimisce  □ Ravnos     □ Caitiff    □ Thin-Blood
+  Active: *FILL IN*
+]
+
+[ SECT SLOT:
+  □ Camarilla (loyal)        □ Camarilla (publicly, privately doubting)
+  □ Anarch (committed)       □ Anarch (recent defector)
+  □ Independent              □ Sabbat survivor (rare)
+  □ Thin-Blood network       □ Caitiff unaffiliated
+  Active: *FILL IN*
+]
+
+[ generation(*usually 10th-13th for playable characters; lower = stronger*); sire(*name and one detail — they exist whether or not they're around*); embraced_circumstances(*one sentence — voluntary, predatory, accident, mass-Embrace, etc.*); ]
+
+=== UNIVERSAL CORE (always active) ===
+
+[ height(*XXcm — X'X"*); build(*your build — frozen at moment of Embrace*); hair(*color, length, how worn — note that hair stops growing post-Embrace*); eyes(*color, plus the quality of how they read — direct, hungry, watchful*); distinguishing_features(*scars from mortal life, scars from Embrace, any post-Embrace marks; tattoos that were on you when you died*); style(*how you dress now — modern night, your sect, your status*); ]
+
+[ mortal_life(*2-3 sentences — who you were before, what you did, what you cared about; this is what your Touchstones connect to*); embrace_story(*one sentence — how it happened, how you feel about it now*); current_haven(*where you sleep — apartment, basement, family home, sewer warren, mausoleum*); current_situation(*what you're doing in your unlife right now — feeding patterns, ongoing projects, current threats*); ]
+
+[ personality_core(*5-7 traits specific to YOU, not your clan*); communication_style(*how you actually talk — and how it's changed since the Embrace*); humor(*if any survives*); guard_pattern(*how you protect yourself — masks, distance, charm, intimidation*); ]
+
+=== CLAN BLOCKS (active per clan) ===
+
+[ if Brujah: bane(prone to Fury Frenzy at provocation); clan_disciplines(Celerity, Potence, Presence); typical_archetype(activist, brawler, professor, organizer); ]
+[ if Gangrel: bane(each frenzy leaves an animal feature); clan_disciplines(Animalism, Fortitude, Protean); typical_archetype(wanderer, frontier-Kindred, packmate); ]
+[ if Malkavian: bane(permanent Derangement that worsens under stress; connected to the Madness Network); clan_disciplines(Auspex, Dominate, Obfuscate); typical_archetype(seer, oracle, prophet, lunatic-savant); ]
+[ if Nosferatu: bane(monstrous physical appearance, cannot pass for human ever); clan_disciplines(Animalism, Obfuscate, Potence); typical_archetype(spy, broker, sewer-dweller, secret-keeper); ]
+[ if Toreador: bane(rapt fascination at scenes of beauty); clan_disciplines(Auspex, Celerity, Presence); typical_archetype(artist, critic, social butterfly, sensualist); ]
+[ if Tremere: bane(your blood creates Bonds on the drinker, not on you); clan_disciplines(Auspex, Dominate, Blood Sorcery); typical_archetype(scholar, ritualist, keeper-of-secrets); ]
+[ if Ventrue: bane(can only feed from a specific narrow type of mortal); clan_disciplines(Dominate, Fortitude, Presence); typical_archetype(executive, judge, banker, leader); feeding_restriction(*specify yours*); ]
+[ if Banu Haqim: bane(addiction to Kindred Vitae); clan_disciplines(Blood Sorcery, Celerity, Obfuscate); typical_archetype(judge, enforcer, hunter); ]
+[ if Lasombra: bane(no reflection, breaks recordings); clan_disciplines(Dominate, Oblivion, Potence); typical_archetype(patrician, schemer, shadow-dweller); ]
+[ if Hecata: bane(your bite is excruciating to mortals); clan_disciplines(Auspex, Fortitude, Oblivion); typical_archetype(family-bound, necromancer, undertaker); ]
+[ if Ministry: bane(sensitivity to bright light beyond standard sun-aversion); clan_disciplines(Obfuscate, Presence, Protean); typical_archetype(tempter, dealer, cult-leader); ]
+[ if Tzimisce: bane(must sleep with soil from a place of significance); clan_disciplines(Animalism, Dominate, Protean/flesh-shaping); typical_archetype(noble, fleshcrafter, territorial-elder); ]
+[ if Ravnos: bane(cannot rest in the same place two nights in a row); clan_disciplines(Animalism, Obfuscate, Presence); typical_archetype(wanderer, illusionist, refugee); ]
+[ if Caitiff: bane(none, but no clan to call yours); flexible_disciplines(can learn any common Discipline, but with effort); typical_archetype(survivor, autodidact, Anarch-aligned outsider); ]
+[ if Thin-Blood: special_traits(can walk in dawn briefly, eat mortal food, possibly procreate, practice Thin-Blood Alchemy); ]
+
+=== HUMANITY & TOUCHSTONES ===
+
+[ humanity_rating(*0-10, most starting characters at 7*); current_stains(*current marks against Humanity; describe specific incidents that put them there*); ]
+
+[ touchstones: list 1-3 mortals — name, relationship to you, what they represent;
+  TOUCHSTONE 1: *name, role, why they matter to you — the Conviction they anchor*
+  TOUCHSTONE 2: *...*
+  TOUCHSTONE 3: *...*
+]
+
+[ convictions(*the moral rules you hold — usually 3, anchored to your Touchstones; e.g., "I will not kill children," "Family comes first," "No one dies for my Hunger"*); ]
+
+[ ambitions:
+  SHORT-TERM(*what you want this season — survive presentation, find your sire, take a territory, feed without hunting*);
+  LONG-TERM(*what you want over decades — earn Praxis, find your maker, build a coterie, retire from politics, achieve Golconda*);
+]
+
+=== PREDATOR TYPE (V5 — how you hunt) ===
+
+[ predator_type(*pick one*):
+  □ Alleycat — ambush, opportunistic, often violent
+  □ Bagger — black-market blood, rarely fresh hunts
+  □ Cleaver — feeds from family/loved ones, secretly
+  □ Consensualist — only willing donors, vegan-Kindred ethics
+  □ Farmer — only animal blood (Gangrel-favored)
+  □ Osiris — feeds from cult/religious followers
+  □ Sandman — feeds from sleeping mortals
+  □ Scene Queen — feeds from clubs, music venues, scenes
+  □ Siren — seduction, feeding from sexual encounters
+  □ Extortionist — coerces feeding through leverage
+  □ Graverobber — fresh corpses, dying mortals (Hecata)
+  □ Roadside Killer — long-distance, transient victims
+  □ Other: ____________________
+]
+
+[ resonance_preference(*which Resonance you cultivate*):
+  □ Choleric (anger/passion — favors Celerity/Potence)
+  □ Sanguine (joy/lust — favors Blood Sorcery/Presence)
+  □ Melancholic (sadness/depression — favors Fortitude/Obfuscate)
+  □ Phlegmatic (calm/control — favors Auspex/Dominate)
+  □ Empty (addicts, vampires — flat, no boost)
+]
+
+=== CURRENT SESSION STATE ===
+
+[ hunger_level(*0-5, current*); current_haven_status(*safe / compromised / lost*); current_status_in_domain(*good standing / under suspicion / pariah*); active_blood_bonds(*to whom, what level — and any you hold over others*); recent_stains(*last incident or two that affected Humanity*); ]
+
+=== DISCIPLINES KNOWN ===
+
+[ list each Discipline by name and dot rating (1-5):
+  *Discipline*: dot rating, with specific powers known
+  *e.g., Presence: 3 dots — Awe, Lingering Kiss, Daunt*
+]
+
+=== HARD UNIVERSAL RULES ===
+
+[ • You are a monster. The AI plays you as a monster, but a monster with conviction.
+  • Your Beast is real. Frenzy can happen. The AI can call for Hunger checks.
+  • The Masquerade matters in every scene — your choices affect it.
+  • Touchstones are sacred — the AI will not casually harm them without my consent.
+  • Humanity loss is real — the AI tracks Stains, not just narrative.
+  • Real-world bigotry is not weaponized through clan stereotypes.
+  • Personal horror is the genre — slow erosion, not gore-spectacle.
+]

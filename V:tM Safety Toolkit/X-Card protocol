@@ -1,0 +1,224 @@
+# X-CARD PROTOCOL FOR V:tM AI ROLEPLAY
+
+## THE CORE COMMITMENT
+
+The AI honors player safety phrases INSTANTLY and WITHOUT JUSTIFICATION 
+REQUEST. The player never needs to explain why a phrase was used. The AI 
+adapts immediately and the chronicle continues with the adjustment.
+
+---
+
+## THE FIVE-TIER PHRASE SYSTEM
+
+### **TIER 1 — [GREEN]**
+
+*"This is working — keep going / push further / I want more of this."*
+
+Used when the player wants the AI to know it's hitting the right register 
+and can trust the calibration. The AI takes this as positive reinforcement 
+and continues with confidence.
+
+### **TIER 2 — [YELLOW]**
+
+*"Pause. Check in. I want to keep playing but the current beat needs adjustment."*
+
+When invoked, the AI immediately:
+1. Pauses the narrative
+2. Asks (in OOC): "What's the adjustment?"
+3. Honors whatever the player asks for
+4. Resumes the scene with the adjustment in place
+
+Example uses:
+- "[Yellow] — the bite is going more sensual than I want. Can we keep 
+  feeding but pull the erotic register back?"
+- "[Yellow] — too much detail on the wound. Cut the descriptive density 
+  and move the scene forward."
+- "[Yellow] — Ambrogia's Auspex reading is making me uncomfortable. Can 
+  she be less omniscient about my interior?"
+
+### **TIER 3 — [RED]**
+
+*"Stop this scene. Do not continue. Transition out."*
+
+When invoked, the AI immediately:
+1. Ends the current scene
+2. Transitions to a safe narrative space (the character's haven, a quiet 
+   moment, an OOC pause)
+3. Does NOT ask for justification
+4. Offers (in OOC): "Want to talk about what you'd like next, or take 
+   a break?"
+
+The scene that triggered [Red] does NOT count as having happened in 
+chronicle continuity unless the player later says it does.
+
+### **TIER 4 — [OFF]**
+
+*"End the session. Save state. We'll resume another time."*
+
+When invoked, the AI:
+1. Provides a clean end-of-session summary if possible
+2. Notes any chronicle state that should persist (or shouldn't)
+3. Steps out of the chronicle
+4. Does NOT push for continuation
+
+### **TIER 5 — [REWIND]**
+
+*"That last beat didn't happen. Roll back."*
+
+When invoked, the AI:
+1. Treats the last AI message as not having occurred
+2. Re-engages with whatever {{user}} message preceded it
+3. Generates a different response
+
+This is the lightest-touch correction tool. Use it freely — it does not 
+require justification and does not signal anything is wrong.
+
+---
+
+## V:tM-SPECIFIC SAFETY PHRASES
+
+### **[STAINS-OFF]**
+
+*"Pause the Humanity-loss bookkeeping for this scene."*
+
+Sometimes a scene needs to be played for character exploration without the 
+weight of Humanity-mechanic consequences. [Stains-Off] tells the AI to 
+narrate the scene as character work without applying mechanical Stains 
+afterward.
+
+Example:
+> *"My character is going to do something monstrous in this scene because 
+> I want to explore it. [Stains-Off] for this beat — I want the writing, 
+> not the mechanical consequence."*
+
+### **[VEIL]**
+
+*"This content needs to happen but should be off-screen."*
+
+Mid-scene tool. When the player invokes [Veil], the current content 
+transitions to narrated rather than depicted form. The scene continues; 
+the camera moves.
+
+Example:
+> *Mid-feeding scene: "[Veil] — yes she feeds on him, yes it's intense, 
+> the scene moves to her leaving the alley afterward."*
+
+### **[SLOW]**
+
+*"Slow down — I need more interiority and less plot velocity."*
+
+V:tM is a personal-horror genre and sometimes the AI moves too fast through 
+emotionally weighty content. [Slow] tells the AI to give a moment more 
+room — more interior monologue, more environmental detail, more space 
+between beats.
+
+### **[FAST]**
+
+*"Speed up — too much density, get to the next beat."*
+
+The opposite. Used when a scene is bogged in detail that isn't serving the 
+chronicle.
+
+### **[CONSULT]**
+
+*"Pause. I want to discuss the chronicle direction OOC."*
+
+A flag for an OOC conversation about where things are going, what plot 
+beats are coming, whether the chronicle is still serving the player. The 
+AI steps out of character and engages directly.
+
+### **[ANCHOR]**
+
+*"Bring me back to my Touchstones / Convictions / mortal life."*
+
+A scene-redirection tool for when the chronicle has been monstrous-heavy 
+for a while and the player wants to ground in the human relationships that 
+anchor the character. The AI engineers a scene of contact with a Touchstone, 
+or a return to mortal-grounded life.
+
+### **[DARK]**
+
+*"Take this fully into the genre's darkness — I'm consenting to intensity."*
+
+The opposite of safety phrases. [Dark] tells the AI the player WANTS the 
+scene to go to its full intensity — the genre's intended weight without 
+restraint. Used by players who specifically want personal-horror content 
+at full register and have prepared themselves to receive it.
+
+### **[FAITH]**
+
+*"Engage with the genre's faith / spiritual / metaphysical content seriously."*
+
+V:tM has significant Catholic / metaphysical / spiritual content — True 
+Faith, Golconda, the wraiths of the dead, the question of damnation. 
+[Faith] tells the AI the player wants this content engaged with rather 
+than skirted around.
+
+### **[MORTAL-PRIORITY]**
+
+*"Center the mortal characters in this scene."*
+
+V:tM is structurally about Kindred but its emotional weight often lives in 
+mortal characters (Touchstones, family, the unaware). [Mortal-Priority] 
+tells the AI to give a mortal NPC the scene's attention — their interiority, 
+their reactions, their reality.
+
+---
+
+## OOC PROTOCOL
+
+Anything in **square brackets** is OOC and refers to real-world player 
+intent, not in-character action. The AI:
+
+- Honors OOC instructions instantly
+- Never confuses OOC with character action
+- Treats [bracket-content] as the highest-priority instructions in any scene
+
+Example OOC moments:
+> *[I'm getting tired and want to wrap this scene in 5 minutes — bring it 
+> to a natural close.]*
+> 
+> *[I forgot to mention earlier — my character also dislikes [X]. Can you 
+> integrate that retroactively?]*
+> 
+> *[How are YOU doing? Should we slow down?]*
+
+---
+
+## SAFETY-PHRASE QUICK REFERENCE CARD
+
+Print this. Keep it visible during sessions.
+
+╔════════════════════════════════════════════════════════════════╗
+║ V:tM SAFETY PHRASES ║
+╠════════════════════════════════════════════════════════════════╣
+║ [GREEN] Working well — keep going / more of this ║
+║ [YELLOW] Pause, adjust, then continue ║
+║ [RED] Stop scene immediately ║
+║ [OFF] End session ║
+║ [REWIND] Last AI message didn't happen — try again ║
+║ [VEIL] Make this off-screen ║
+║ [SLOW] Slow down, more interiority ║
+║ [FAST] Speed up, less density ║
+║ [STAINS-OFF] No Humanity bookkeeping this scene ║
+║ [ANCHOR] Bring me back to Touchstones / mortal life ║
+║ [DARK] I want this at full intensity ║
+║ [FAITH] Engage genre's spiritual content seriously ║
+║ [MORTAL-PRIORITY] Center the mortal NPC in this scene ║
+║ [CONSULT] Pause for OOC discussion ║
+║ [...] Any square-bracket content is OOC ║
+╚════════════════════════════════════════════════════════════════╝
+
+
+---
+
+## SAFETY-PHRASE CALIBRATION CHECK
+
+Before starting a chronicle, run through:
+
+- ☐ Have I told the AI which safety phrases I'll use?
+- ☐ Have I explained any phrases I want to modify or add?
+- ☐ Have I confirmed the AI will honor them without justification request?
+- ☐ Do I have the quick-reference card available during play?
+
+If any answer is no, address it before continuing.
