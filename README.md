@@ -1,4 +1,4 @@
-# `how_to_play.md` — Vampire: The Masquerade V5 Kit Player's Guide for SillyTavern
+# Vampire: The Masquerade V5 Kit Player's Guide for SillyTavern
 
 **A complete guide to running the kit in SillyTavern**
 
