@@ -6,6 +6,9 @@ Last updated: 2026-05-23
 
 ---
 
+<img width="910" height="1172" alt="Screenshot from 2026-06-05 01-18-27" src="https://github.com/user-attachments/assets/f26f33aa-45d2-407f-a128-9e526b36388d" />
+
+
 ## Quick Start (TL;DR)
 
 If you want to start playing tonight with minimum setup:
