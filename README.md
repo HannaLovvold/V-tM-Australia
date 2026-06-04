@@ -14,7 +14,7 @@ Small changes to Character Creation and Storyteller cards + lorebook
 ## Domains
 
 1. **Melbourne** - Camarilla - Prince Marcus Lytton - Toreador
-2. **Sydney**    - Independent (non-Camarilla, non-Anarch, non-Sabbat) - Sarrasine - Setite (now Ministry) Methuselah
+2. **Sydney**    - Independent (non-Camarilla, non-Anarch, non-Sabbat) - Sarrasine - Setite (now Ministry) Methuselah masquesrading as a Tereador
 3. **Brisbane**  - Sabbat - Bishop Callista Vox
 4. **Adelaide**  - A smaller-domain Camarilla - Prince Octavia Marsh - Ventrue
 
