@@ -8,6 +8,14 @@ Last updated: 2026-05-23
 
 <img width="910" height="1172" alt="Screenshot from 2026-06-05 01-18-27" src="https://github.com/user-attachments/assets/f26f33aa-45d2-407f-a128-9e526b36388d" />
 
+---
+
+## Domains
+
+Melbourne - Camarilla - Prince Marcus Lytton - Methuselah Toreador
+Sydney    - Independent (non-Camarilla, non-Anarch, non-Sabbat) - Sarrasine - Setite (now Ministry) Methuselah
+Brisbane  - Sabbat - Bishop Callista Vox
+Adelaide  - A smaller-domain Camarilla - Prince Octavia Marsh - Ventrue
 
 ## Quick Start (TL;DR)
 
