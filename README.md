@@ -2,7 +2,8 @@
 
 **A complete guide to running the kit in SillyTavern**
 
-Last updated: 2026-05-23
+Last updated: 2026-06-04
+Small changes to Character Creation and Storyteller cards + lorebook
 
 ---
 
